@@ -43,6 +43,21 @@ I'm a Web Designer and WordPress Developer, building creative and user-friendly 
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌐 Aliye SiteCraft
+
+My personal portfolio and web design website.
+
+- **Platform:** WordPress
+- **Services:** Website Design, WordPress Development, SEO
+- **Website:** [Visit Aliye SiteCraft](https://aliyesitecraft.ir)
+- **GitHub:** [View GitHub Profile](https://github.com/AliyeSiteCraft)
+
+---
+
+---
+
 ## 🌐 My Portfolio
 
 Visit my website to explore my work:
