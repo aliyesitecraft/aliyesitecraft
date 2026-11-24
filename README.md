@@ -24,13 +24,22 @@ I'm a Web Designer and WordPress Developer, building creative and user-friendly 
 
 ---
 
-## 🛠️ Skills & Technologies
+<h2 align="center">🛠️ Skills & Technologies</h2>
 
-- WordPress
-- Website Design
-- Responsive Web Design
-- SEO
-- HTML & CSS (Learning)
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website_Design-172B46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive_Design-69C59A?style=for-the-badge&logo=responsive&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-7545B8?style=for-the-badge" />
+</p>
+
+<h3 align="center">📚 Currently Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
 
 ---
 
