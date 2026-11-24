@@ -88,3 +88,27 @@ Visit my website to explore my work:
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyesitecraft&layout=compact&theme=transparent&hide_border=true&title_color=172B46" width="48%" />
 </p>
+
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://aliyesitecraft.ir">
+    <img src="https://img.shields.io/badge/Website-172B46?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/AliyeSiteCraft">
+    <img src="https://img.shields.io/badge/GitHub-69C59A?style=for-the-badge&logo=github&logoColor=172B46" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Open to learning, collaboration and new opportunities.</b>
+</p>
+
+---
+
+<p align="center">
+  Made with 💚 by Aliye | Aliye SiteCraft
+</p>
