@@ -40,7 +40,6 @@ I'm a Web Designer and WordPress Developer, building creative and user-friendly 
   <img src="https://img.shields.io/badge/CSS3-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -53,8 +52,6 @@ My personal portfolio and web design website.
 - **Services:** Website Design, WordPress Development, SEO
 - **Website:** [Visit Aliye SiteCraft](https://aliyesitecraft.ir)
 - **GitHub:** [View GitHub Profile](https://github.com/AliyeSiteCraft)
-
----
 
 ---
 
@@ -88,7 +85,6 @@ Visit my website to explore my work:
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyesitecraft&layout=compact&theme=transparent&hide_border=true&title_color=172B46" width="48%" />
 </p>
-
 
 ---
 
