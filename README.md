@@ -76,3 +76,15 @@ Visit my website to explore my work:
 <p align="center">
   Thanks for visiting my profile! ✨
 </p>
+
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=aliyesitecraft&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&title_color=172B46&icon_color=69C59A" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyesitecraft&layout=compact&theme=transparent&hide_border=true&title_color=172B46" width="48%" />
+</p>
